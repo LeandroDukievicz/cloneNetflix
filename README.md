@@ -1,3 +1,9 @@
+![forks](https://img.shields.io/github/forks/LeandroDukievicz/cloneNetflix.svg)
+![downs](https://img.shields.io/github/downloads/LeandroDukievicz/cloneNetflix/total.svg)
+![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![vs](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+
+
 # cloneNetflix
 
 ##  Projeto realizado, pela plataforma [Digital inovattion one](https://www.dio.me/sign-in)
