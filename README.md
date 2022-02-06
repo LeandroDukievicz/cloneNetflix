@@ -1,3 +1,5 @@
+![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/cloneNetflix.svg)
+![stars](https://img.shields.io/github/stars/LeandroDukievicz/cloneNetflix.svg)
 ![forks](https://img.shields.io/github/forks/LeandroDukievicz/cloneNetflix.svg)
 ![downs](https://img.shields.io/github/downloads/LeandroDukievicz/cloneNetflix/total.svg)
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
